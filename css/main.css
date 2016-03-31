@@ -8,6 +8,11 @@ h1 {
     text-align: center;
 }
 
+p.head {
+    text-align: center; 
+    font-style: italic
+}
+
 section {
     position: relative;
 }
